@@ -1,0 +1,4 @@
+CyanMobile
+===========
+
+you must use custom partition (hboot) in prebuilt folder before flash this build
