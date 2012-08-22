@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
 
 #Media profile
 PRODUCT_COPY_FILES += \
-    device/htc/passion-common/poweron.ogg:system/media/poweron.ogg \
     device/htc/passion-common/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
     device/htc/passion-common/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg
 
