@@ -44,6 +44,7 @@ PRODUCT_PACKAGES := \
     Gallery3d \
     SpareParts \
     Development \
+    PassionUpdater \
     Term \
     FM \
     e2fsck \
