@@ -71,7 +71,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 
 # Set the system image size limit to the full physical space available for eng build
 ifeq (eng,$(TARGET_BUILD_VARIANT))
-BOARD_SYSTEMIMAGE_PARTITION_SIZE := 0xABA9500
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 0xB532B80
 endif
 
 TARGET_RELEASETOOLS_EXTENSIONS := device/htc/common
