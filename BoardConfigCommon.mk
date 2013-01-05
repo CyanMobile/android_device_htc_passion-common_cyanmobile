@@ -45,6 +45,11 @@ BOARD_KERNEL_CMDLINE := no_console_suspend=1 wire.search_count=5
 BOARD_KERNEL_BASE := 0x20000000
 BOARD_KERNEL_NEW_PPPOX := true
 
+# Kernel Build
+TARGET_KERNEL_SOURCE := kernel/htc/msm
+TARGET_KERNEL_CONFIG := cmx_mahimahi_defconfig
+TARGET_PREBUILT_KERNEL := device/htc/passion-common/kernel
+
 BOARD_HAVE_BLUETOOTH := true
 BOARD_HAVE_BLUETOOTH_BCM := true
 
