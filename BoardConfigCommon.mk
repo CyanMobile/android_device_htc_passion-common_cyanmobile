@@ -48,7 +48,6 @@ BOARD_KERNEL_NEW_PPPOX := true
 # Kernel Build
 TARGET_KERNEL_SOURCE := kernel/htc/msm
 TARGET_KERNEL_CONFIG := cmx_mahimahi_defconfig
-TARGET_PREBUILT_KERNEL := device/htc/passion-common/kernel
 
 BOARD_HAVE_BLUETOOTH := true
 BOARD_HAVE_BLUETOOTH_BCM := true
