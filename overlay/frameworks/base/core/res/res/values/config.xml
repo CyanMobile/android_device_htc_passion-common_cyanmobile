@@ -26,7 +26,14 @@
 
     <bool name="config_automaticSoftwareBrightness">true</bool>
 
-    <bool name="config_animateScreenLights">true</bool>
+    <!-- If this is true, the screen will fade off. -->
+    <bool name="config_animateScreenLights">false</bool>
+
+    <!-- Enable the screen animation -->
+    <bool name="config_enableScreenAnimation">true</bool>
+
+    <!-- Enable the screen-off animation -->
+    <bool name="config_enableScreenOffAnimation">true</bool>
 
     <!-- disable menu hard key on Passion in non-pattern lockscreen -->
     <bool name="config_disableMenuKeyInLockScreen">true</bool>
