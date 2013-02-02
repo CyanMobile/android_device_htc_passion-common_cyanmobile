@@ -26,9 +26,6 @@
 
     <bool name="config_automaticSoftwareBrightness">true</bool>
 
-    <!-- If this is true, the screen will fade off. -->
-    <bool name="config_animateScreenLights">false</bool>
-
     <!-- Enable the screen animation -->
     <bool name="config_enableScreenAnimation">true</bool>
 
