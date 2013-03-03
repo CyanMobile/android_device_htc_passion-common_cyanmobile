@@ -26,8 +26,8 @@
 
     <bool name="config_automaticSoftwareBrightness">true</bool>
 
-    <!-- Enable the screen animation -->
-    <bool name="config_enableScreenAnimation">true</bool>
+    <!-- Enable the screen-on animation -->
+    <bool name="config_enableScreenOnAnimation">true</bool>
 
     <!-- Enable the screen-off animation -->
     <bool name="config_enableScreenOffAnimation">true</bool>
