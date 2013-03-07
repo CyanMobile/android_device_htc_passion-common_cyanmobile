@@ -185,6 +185,4 @@
     <bool name="cm_default_power_menu_back">true</bool>
     <bool name="cm_default_reverse_volume_behavior">false</bool>
     <integer name="cm_default_unhide_button_index">0</integer>
-
-    <bool name="config_fmSeparateVolumeControl">true</bool>
 </resources>
